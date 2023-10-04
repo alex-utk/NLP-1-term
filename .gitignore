@@ -1,2 +1,5 @@
 NOT_A_HOMEWORK
 nlp_venv
+__pycache__
+*.tar
+*.json

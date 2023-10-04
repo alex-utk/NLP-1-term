@@ -1,0 +1,5 @@
+pymystem3
+nltk
+requests
+beautifulsoup4
+corus
