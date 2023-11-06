@@ -3,3 +3,5 @@ nlp_venv
 __pycache__
 *.tar
 *.json
+*.pkl
+*.gz
