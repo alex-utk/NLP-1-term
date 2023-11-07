@@ -1,0 +1,10 @@
+torchmetrics
+transformers
+clean-text
+pandas
+nltk
+numpy
+gensim
+torch==2.1.0
+torchmetrics==1.2.0
+torchvision==0.16.0
