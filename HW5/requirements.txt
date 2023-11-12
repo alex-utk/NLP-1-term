@@ -1,0 +1,11 @@
+bigartm
+hyperopt
+pyldavis
+gensim
+pandas
+numpy
+matplotlib
+scikit-learn
+corus
+nltk
+natasha
